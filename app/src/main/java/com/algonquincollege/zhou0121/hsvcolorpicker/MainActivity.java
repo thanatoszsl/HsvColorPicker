@@ -198,7 +198,7 @@ public class MainActivity extends Activity implements Observer, SeekBar.OnSeekBa
 
     @Override
     public void onStartTrackingTouch(SeekBar seekBar) {
-        // No-Operation
+
     }
 
     @Override
