@@ -99,7 +99,7 @@ public class MainActivity extends Activity implements Observer, SeekBar.OnSeekBa
     }
 
 
-    public void changeColor(View v) {
+    public void changeColourPreset(View v) {
         switch (v.getId()) {
             case R.id.blackButton:
                 mModel.asBlack();

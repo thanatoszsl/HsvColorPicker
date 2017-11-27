@@ -22,7 +22,8 @@
             android:layout_width="390dp"
             android:layout_gravity="center"
             android:height="180dp"
-            android:background="@color/black" />
+            android:background="@color/black"
+            android:layout_height="wrap_content" />
     </FrameLayout>
 
 
